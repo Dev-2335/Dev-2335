@@ -51,9 +51,7 @@ Hi there! I'm **Dev Patel**, a passionate developer and problem-solver always lo
 ---
 
 ## 📊 GitHub Stats
-![Dev-2335's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-2335&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2335&layout=compact&theme=radical)
+![Dev-2335's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-2335&show_icons=true&theme=radical)    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2335&layout=compact&theme=radical)
 
 ---
 
