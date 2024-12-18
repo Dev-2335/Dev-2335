@@ -22,7 +22,7 @@ Hi there! I'm **Dev Patel**, a passionate developer and problem-solver always lo
 ### 🎮 Sudoku Game
 - **Description**: A fun and interactive Sudoku puzzle game.
 - **Features**: Multiple difficulty levels, intuitive design, and real-time feedback.
-- **Technologies**: Flutter, Dart.
+- **Technologies**: HTML , CSS & JavaScript.
 
 ### 💤 Sleep Quality Predictor
 - **Description**: A machine learning application that predicts sleep quality based on user input data.
