@@ -1,61 +1,143 @@
-# Welcome to My GitHub Profile! 👋
+# 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Dev Patel**, a passionate developer and problem-solver always looking to learn and create impactful projects. Here, you'll find a collection of my work spanning various technologies and domains. Feel free to explore, collaborate, and connect with me!
+Hi, I'm **Dev Patel** —  
+🚀 Flutter Developer | 💻 Full Stack Developer | 🤖 AI/ML Learner | 📈 Digital Marketer  
+
+I build scalable apps, intelligent systems, and growth-focused digital solutions.  
+I love turning ideas into products that actually solve real-world problems.
 
 ---
 
 ## 🚀 About Me
-- 🌱 **Currently Learning**: Machine Learning, and UI/UX.
-- 💼 **Professional Role**: Teaching Assistant in Mobile Development at Darshan University and intern at Ananta Technolab as MERN stack developer.
-- 🤝 **Collaboration Interests**: Open-source projects, innovative mobile apps, and AI/ML applications.
-- 💡 **Hobbies**: Exploring new technologies, contributing to open-source, and teaching.
+
+- 🔥 **Core Focus**: Mobile Development (Flutter), Full-Stack Web Apps (MERN)
+- 🤖 **Currently Learning**: Machine Learning, Deep Learning & Advanced System Design
+- 📈 **Also Working In**: Digital Marketing & Performance Ads
+- 🎓 **Experience**:
+  - Teaching Assistant in Mobile Development at Darshan University
+  - MERN Stack Developer Intern at Ananta Technolab
+- 🤝 **Open to Collaborate On**:
+  - AI/ML applications
+  - Scalable SaaS products
+  - Flutter production apps
+  - Growth-driven tech projects
 
 ---
 
-## 🗂 My Key Projects
+## 🧠 What I Do
 
-### 🌦️ Weather App
-- **Description**: A mobile app developed using Flutter to check weather forecasts and manage favorite locations.
-- **Features**: 7-day weather forecasts, easy navigation, and city bookmarking.
-- **Technologies**: Flutter, Dart.
+### 📱 Flutter Development
+- Cross-platform mobile apps
+- Clean UI/UX architecture
+- State management & API integration
+- Firebase & backend integration
+
+### 🌐 Full Stack Development (MERN)
+- REST APIs with Node.js & Express
+- MongoDB database design
+- Authentication (JWT)
+- Scalable web architecture
+- Responsive UI with React / Next.js
+
+### 🤖 AI & Machine Learning
+- Supervised learning models
+- Data preprocessing & model training
+- Streamlit ML applications
+- Real-world problem solving with ML
+
+### 📊 Digital Marketing
+- Google Business Profile Optimization
+- Meta Ads Campaigns
+- Social Media Strategy
+- Performance-based client acquisition
+
+---
+
+## 🗂 Featured Projects
+
+### 🌦️ Weather App (Flutter)
+- 7-day weather forecasting
+- Favorite cities bookmarking
+- Clean UI & smooth navigation
+- Tech: Flutter, Dart
+
+---
 
 ### 🎮 Sudoku Game
-- **Description**: A fun and interactive Sudoku puzzle game.
-- **Features**: Multiple difficulty levels, intuitive design, and real-time feedback.
-- **Technologies**: HTML , CSS & JavaScript.
+- Multiple difficulty levels
+- Interactive gameplay
+- Real-time validation
+- Tech: HTML, CSS, JavaScript
+
+---
 
 ### 💤 Sleep Quality Predictor
-- **Description**: A machine learning application that predicts sleep quality based on user input data.
-- **Technologies**: Python, Streamlit, RandomForestClassifier.
+- ML-based prediction system
+- RandomForestClassifier model
+- Streamlit UI
+- Tech: Python, Machine Learning
+
+---
 
 ### 🤖 Carrate Master Bot
-- **Description**: A Telegram bot with math calculation functionalities and interactive commands.
-- **Technologies**: Python, Telegram API.
+- Telegram bot for math calculations
+- Command-based interaction
+- Tech: Python, Telegram API
 
 ---
 
-## 🛠️ Skills & Tools
-- **Languages**: Python, Dart, JavaScript, Java, C, C++.
-- **Frameworks & Libraries**: Flutter, React.js, Node.js, Angular.js.
-- **Web Technologies**: HTML, CSS, Bootstrap.
-- **Databases**: MongoDB, Firebase.
-- **Other Tools**: Git, Docker, Streamlit.
+## 🛠️ Skills & Technologies
 
----
+### 💻 Programming Languages
+- Python
+- Dart
+- JavaScript
+- Java
+- C / C++
 
-## 🌐 Connect with Me
-- **GitHub**: [Dev-2335](https://github.com/Dev-2335)
-- **LinkedIn**: [Dev Patel](https://www.linkedin.com/in/dev-patel-257298266/)
-- **Email**: [devpateldp1718@gmail.com](mailto:devpateldp1718@gmail.com)
+### 🚀 Frameworks & Libraries
+- Flutter
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- Angular.js
+
+### 🗄️ Databases
+- MongoDB
+- Firebase
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- Docker
+- Streamlit
+- Postman
+- Figma
 
 ---
 
 ## 📊 GitHub Stats
-![Dev-2335's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-2335&show_icons=true&theme=radical)   
+
+![Dev-2335's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-2335&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2335&layout=compact&theme=radical)
 
 ---
 
-Thank you for visiting my profile! Feel free to fork any repository, open issues, or submit pull requests. Let's build amazing things together! 🚀
+## 🌐 Connect With Me
 
+- 💼 LinkedIn: https://www.linkedin.com/in/dev-patel-257298266/
+- 📧 Email: devpateldp1718@gmail.com
+- 🐙 GitHub: https://github.com/Dev-2335
+
+---
+
+## 🎯 My Mission
+
+To build impactful tech products that combine development, intelligence, and growth strategy.
+
+If you're working on something exciting — let’s collaborate 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
