@@ -1,6 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Dev Patel** -
+Hi, I'm **Dev Patel** 
+
 🚀 Flutter Developer | 💻 Full Stack Developer | 🤖 AI/ML Learner | 📈 Digital Marketer  
 
 I build scalable apps, intelligent systems, and growth-focused digital solutions.  
