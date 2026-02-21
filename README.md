@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm **Dev Patel** —  
+Hi, I'm **Dev Patel** 
 🚀 Flutter Developer | 💻 Full Stack Developer | 🤖 AI/ML Learner | 📈 Digital Marketer  
 
 I build scalable apps, intelligent systems, and growth-focused digital solutions.  
@@ -113,14 +113,6 @@ I love turning ideas into products that actually solve real-world problems.
 - Streamlit
 - Postman
 - Figma
-
----
-
-## 📊 GitHub Stats
-
-![Dev-2335's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-2335&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2335&layout=compact&theme=radical)
 
 ---
 
